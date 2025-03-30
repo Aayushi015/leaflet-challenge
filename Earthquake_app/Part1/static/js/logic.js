@@ -1,4 +1,4 @@
-console.log("Step 1 working");
+console.log("1");
 
 // Create the 'basemap' tile layer that will be the background of our map.
 let basemap = L.tileLayer(
